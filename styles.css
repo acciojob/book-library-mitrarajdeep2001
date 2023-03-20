@@ -14,11 +14,11 @@ body{
 	margin:5px auto;
 	
 }
-p{
+h2{
 	background#777777;
 }
 .price-block{
-	color: rgb(255, 255, 255);
+	color: #2ecc71;
 /* 	width:100%; */
 	height:30px;
 /* 	margin:0 10px; */
