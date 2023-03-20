@@ -12,9 +12,9 @@ body{
 .book{
 	width:200px;
 	margin:5px auto;
-	
+	background:#f8f8f8;
 }
-h2{
+p{
 	color:#777777;
 }
 .price-block{
