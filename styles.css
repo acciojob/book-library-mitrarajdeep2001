@@ -18,10 +18,9 @@ h2{
 	background#777777;
 }
 .price-block{
-	color: #2ecc71;
-/* 	width:100%; */
+	background-color: rgb(46, 204, 113);
+	text-align:center;
 	height:30px;
-/* 	margin:0 10px; */
 }
 h1{
 	text-align:center;
